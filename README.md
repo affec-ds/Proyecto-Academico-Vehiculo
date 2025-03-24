@@ -1,49 +1,68 @@
-🚗 Proyecto Vehículo — Análisis y Visualización de Precios
+Proyecto Vehículo — Análisis Interactivo de Precios de Autos
 
 Autor: Affectus Jaureguizar
-Sprint 6 - Bootcamp TripleTen: Herramientas de Desarrollo de Software
+
+Sprint 6 — Bootcamp TripleTen (Data Science)
+
 Fecha: 2024
 
+Descripción del Proyecto
 
-🚀Descripción del Proyecto
-Este proyecto consistió en el desarrollo de una aplicación web interactiva para visualizar el comportamiento histórico de precios de vehículos. La aplicación permite explorar de forma clara y dinámica cómo han variado los valores de distintos modelos a lo largo de los años, utilizando gráficos de líneas generados con Python.
+Este proyecto fue desarrollado como parte del Sprint 6: Herramientas de Desarrollo de Software del bootcamp de Data Science en TripleTen. El objetivo fue construir una aplicación web interactiva usando Streamlit para explorar y visualizar datos históricos de vehículos usados.
 
-Fue desarrollado como parte del Sprint 6 del bootcamp de Data Science de TripleTen, con foco en buenas prácticas de desarrollo, despliegue web y entrega de valor a través de herramientas visuales accesibles.
-
+La aplicación permite analizar la evolución de los precios a lo largo de los años mediante distintos gráficos (histograma, dispersión y área), facilitando una comprensión visual de tendencias y patrones en el mercado automotriz.
 
 🎯 Objetivo
-Facilitar la exploración visual de precios de automóviles a lo largo del tiempo, como herramienta para apoyar decisiones de compra, análisis de tendencias o desarrollo de productos.
 
+Ofrecer una herramienta visual intuitiva que permita explorar datos históricos de precios de automóviles y apoyar análisis exploratorios rápidos.
 
-🔍 Funcionalidades
-Visualización de precios por modelo de vehículo a través de los años
+Funcionalidades Principales
 
-Interfaz web simple e intuitiva
+Carga y visualización de un conjunto real de datos de vehículos
 
-Despliegue automático en la nube con Render
+Histograma de precios
 
+Gráfico de dispersión Precio vs Año
 
-🌐 Enlace a la aplicación desplegada
-[Visita la aplicación en Render](https://proyecto-vehiculo.onrender.com)
+Gráfico de área para mostrar evolución de precios por año
 
+Aplicación desplegada en la nube con Render
 
-🛠 Tecnologías utilizadas
+🚀 Aplicación desplegada
+
+👉 [Visitar la aplicación en Render](https://proyecto-vehiculo.onrender.com/)
+
+🛠 Tecnologías Utilizadas
+
 Python
 
 Pandas
 
-Plotly / Matplotlib
+Plotly Express
 
-Flask
+Streamlit
 
 Render (para despliegue web)
 
+📌 Evaluación Técnica
 
-📌 Evaluación técnica
-Proyecto evaluado dentro del Sprint 6: Herramientas de Desarrollo de Software
+Este proyecto evaluó:
 
-Enfoque en uso de entorno virtual, estructuras de carpetas limpias, y despliegue automático
+Estructuración limpia de código Python
 
+Visualización de datos con Plotly
+
+Desarrollo de aplicaciones web con Streamlit
+
+Despliegue en la nube
 
 📩 Contacto
-Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/affectus-jaureguizar-ram%C3%ADrez-275386329) 
+
+[Conecta conmigo en LinkedIn](https://www.linkedin.com/in/affectusjaureguizar)
+
+[GitHub](https://github.com/affec-ds)
+
+📝 Licencia
+
+Este proyecto fue desarrollado como parte del proceso formativo del bootcamp TripleTen, y puede ser utilizado con fines educativos y de portafolio.
+Enfoque en uso de entorno virtual, estructuras de carpetas limpias, y despliegue automático 
