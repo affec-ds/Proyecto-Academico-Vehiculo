@@ -4,7 +4,9 @@
 
 ### Sprint 6 — Bootcamp TripleTen (Data Science)
 
-### Fecha: 2024
+### Fecha original: Septiembre, 2024
+
+### Revisión para portafolio: 24 de Marzo, 2025
 
 ---
 
