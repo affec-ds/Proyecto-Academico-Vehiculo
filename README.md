@@ -56,6 +56,39 @@ Render (para despliegue web)
 
 ---
 
+## ▶️ Cómo ejecutar este proyecto
+
+Este proyecto fue desarrollado con **Streamlit** y puede ejecutarse tanto en la nube como localmente.
+
+### 🔗 Opción 1: Probar la aplicación en la nube
+
+Puedes acceder a la versión desplegada en Render directamente desde aquí:
+
+👉 [Ver aplicación online](https://proyecto-vehiculo.onrender.com/)
+
+---
+
+### 💻 Opción 2: Ejecutar localmente (recomendado para revisión técnica)
+
+1. Asegúrate de tener instalado **Python 3.x**.
+2. Clona este repositorio:
+   ```bash
+   git clone https://github.com/affec-ds/proyecto-vehiculo-streamlit.git
+
+3. Navega a la carpeta del proyecto:
+   ```Bash
+   cd proyecto-vehiculo-streamlit
+
+4. Instala las dependencias necesarias:
+   ```Bash
+   pip install -r requirements.txt
+
+6. Ejecuta la aplicación:
+   ```Bash
+   streamlit run app.py
+   
+---
+
 ## 🧠 Nota importante
 
 Este proyecto fue desarrollado como parte de una **evaluación académica del Sprint 6 del Bootcamp de Ciencia de Datos de TripleTen**, centrado en el uso de herramientas de desarrollo como Streamlit. Si bien se basa en datos reales y utiliza tecnologías aplicables a proyectos profesionales, su propósito es formativo.
